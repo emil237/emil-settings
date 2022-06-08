@@ -1,4 +1,4 @@
-oe-alliance-settings
+Emil-Settings
 ====================
 
 A collection channel settings.
