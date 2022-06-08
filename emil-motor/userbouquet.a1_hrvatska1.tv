@@ -1,0 +1,25 @@
+#NAME A1 Hrvatska
+#SERVICE 1:64:2FF:0:0:0:0:0:0:0::---------- Filmski ----------
+#DESCRIPTION ---------- Filmski ----------
+#SERVICE 1:0:19:A96:9DD0:16E:A00000:0:0:0:
+#SERVICE 1:0:19:737:C5A8:16E:A00000:0:0:0:
+#SERVICE 1:0:19:796:C6D4:16E:A00000:0:0:0:
+#SERVICE 1:0:19:723:C5A8:16E:A00000:0:0:0:
+#SERVICE 1:64:300:0:0:0:0:0:0:0::---------- Tv Serije ----------
+#DESCRIPTION ---------- Tv Serije ----------
+#SERVICE 1:0:1:1171:9CA4:16E:A00000:0:0:0:
+#SERVICE 1:64:301:0:0:0:0:0:0:0::---------- Zabava ----------
+#DESCRIPTION ---------- Zabava ----------
+#SERVICE 1:0:1:67E:9FC4:16E:A00000:0:0:0:
+#SERVICE 1:0:19:A8E:9DD0:16E:A00000:0:0:0:
+#SERVICE 1:64:302:0:0:0:0:0:0:0::---------- Sportski ----------
+#DESCRIPTION ---------- Sportski ----------
+#SERVICE 1:0:19:19C:3:40:A00000:0:0:0:
+#SERVICE 1:0:19:BE:3:40:A00000:0:0:0:
+#SERVICE 1:0:19:A99:9DD0:16E:A00000:0:0:0:
+#SERVICE 1:64:303:0:0:0:0:0:0:0::---------- Kultura ----------
+#DESCRIPTION ---------- Kultura ----------
+#SERVICE 1:0:19:772:C6D4:16E:A00000:0:0:0:
+#SERVICE 1:0:19:45C:526C:16E:A00000:0:0:0:
+#SERVICE 1:0:19:45B:526C:16E:A00000:0:0:0:
+#SERVICE 1:0:19:A97:9DD0:16E:A00000:0:0:0:

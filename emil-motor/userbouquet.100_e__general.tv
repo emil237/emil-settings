@@ -1,0 +1,21 @@
+#NAME • 10,0 E - General
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••::| HD |::•••••
+#DESCRIPTION •••••::| HD |::•••••
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| General |•••••
+#DESCRIPTION •••••| General |•••••
+#SERVICE 1:0:1:1:1:1:64AB6A:0:0:0::Al Rasheed
+#DESCRIPTION Al Rasheed
+#SERVICE 1:0:19:4:1:1:642C52:0:0:0:
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Entertainment |•••••
+#DESCRIPTION •••••| Entertainment |•••••
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| News |•••••
+#DESCRIPTION •••••| News |•••••
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••::| SD |::•••••
+#DESCRIPTION •••••::| SD |::•••••
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| General |•••••
+#DESCRIPTION •••••| General |•••••
+#SERVICE 1:0:1:1:1:FFFF:64AA54:0:0:0::Palanca TV
+#DESCRIPTION Palanca TV
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| News |•••••
+#DESCRIPTION •••••| News |•••••
+#SERVICE 1:0:1:1:1000:2000:640000:0:0:0:

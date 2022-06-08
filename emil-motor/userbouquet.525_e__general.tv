@@ -1,0 +1,25 @@
+#NAME >>>>>>>>• 52,5 E - General <<<<<<<<
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••::| HD |::•••••
+#DESCRIPTION •••••::| HD |::•••••
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Movies |•••••
+#DESCRIPTION •••••| Movies |•••••
+#SERVICE 1:0:1:14CA:E:20D:20D0000:0:0:0:
+#SERVICE 1:0:1:15E9:0:0:20D2F16:0:0:0:
+#SERVICE 1:0:1:15E7:0:0:20D2F16:0:0:0:
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| General |•••••
+#DESCRIPTION •••••| General |•••••
+#SERVICE 1:0:1:14C9:E:20D:20D0000:0:0:0:
+#SERVICE 1:0:1:14CB:E:20D:20D0000:0:0:0:
+#SERVICE 1:0:19:50C:0:0:20D2F16:0:0:0:
+#SERVICE 1:0:1:14C6:E:20D:20D0000:0:0:0:
+#SERVICE 1:0:1:1D:E:20D:20D0000:0:0:0:
+#SERVICE 1:0:1:14C8:E:20D:20D0000:0:0:0:
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Children |•••••
+#DESCRIPTION •••••| Children |•••••
+#SERVICE 1:0:1:14CC:E:20D:20D0000:0:0:0:
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••::| SD |::•••••
+#DESCRIPTION •••••::| SD |::•••••
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| General |•••••
+#DESCRIPTION •••••| General |•••••
+#SERVICE 1:0:1:15EA:0:0:20D2F16:0:0:0:
+#SERVICE 1:0:1:15EB:0:0:20D2F16:0:0:0:
