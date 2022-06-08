@@ -1,0 +1,20 @@
+#NAME Sky UK International
+#SERVICE 1:64:4CE:0:0:0:0:0:0:0::---------- India ----------
+#DESCRIPTION ---------- India ----------
+#SERVICE 1:0:19:FA5:7E5:2:11A0000:0:0:0:
+#SERVICE 1:0:19:FC0:7D3:2:11A0000:0:0:0:
+#SERVICE 1:0:19:CF9D:83A:2:11A0000:0:0:0:
+#SERVICE 1:0:19:D7EA:82C:2:11A0000:0:0:0:
+#SERVICE 1:64:4CF:0:0:0:0:0:0:0::---------- Bangladesh ----------
+#DESCRIPTION ---------- Bangladesh ----------
+#SERVICE 1:64:4D0:0:0:0:0:0:0:0::---------- Pakistan ----------
+#DESCRIPTION ---------- Pakistan ----------
+#SERVICE 1:64:4D1:0:0:0:0:0:0:0::---------- China ---------
+#DESCRIPTION ---------- China ---------
+#SERVICE 1:0:19:1BBC:835:2:11A0000:0:0:0:
+#SERVICE 1:64:4D2:0:0:0:0:0:0:0::---------- Others ----------
+#DESCRIPTION ---------- Others ----------
+#SERVICE 1:0:19:CF9E:83A:2:11A0000:0:0:0:
+#SERVICE 1:0:19:C44A:837:2:11A0000:0:0:0:
+#SERVICE 1:0:19:D7E9:82C:2:11A0000:0:0:0:
+#SERVICE 1:0:19:CB97:83C:2:11A0000:0:0:0:
