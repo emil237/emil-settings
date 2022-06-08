@@ -1,0 +1,33 @@
+#NAME • 0,8 W - Slovak Telekom-Telly
+#SERVICE 1:64:187:0:0:0:0:0:0:0::•••••| Sport |•••••
+#DESCRIPTION •••••| Sport |•••••
+#SERVICE 1:0:19:FBA:AF4:BB:E080000:0:0:0:
+#SERVICE 1:0:19:BDE:AF3:BB:E080000:0:0:0:
+#SERVICE 1:0:19:FB4:AF4:BB:E080000:0:0:0:
+#SERVICE 1:64:183:0:0:0:0:0:0:0::•••••| Movies |•••••
+#DESCRIPTION •••••| Movies |•••••
+#SERVICE 1:0:19:FB0:AF4:BB:E080000:0:0:0:
+#SERVICE 1:0:1:FB5:AF4:BB:E080000:0:0:0:
+#SERVICE 1:64:184:0:0:0:0:0:0:0::•••••| Entertainment |•••••
+#DESCRIPTION •••••| Entertainment |•••••
+#SERVICE 1:0:19:BCD:AF3:BB:E080000:0:0:0:
+#SERVICE 1:0:19:BCF:AF3:BB:E080000:0:0:0:
+#SERVICE 1:0:19:BD1:AF3:BB:E080000:0:0:0:
+#SERVICE 1:0:19:FAC:AF4:BB:E080000:0:0:0:
+#SERVICE 1:64:185:0:0:0:0:0:0:0::•••••| General |•••••
+#DESCRIPTION •••••| General |•••••
+#SERVICE 1:64:186:0:0:0:0:0:0:0::•••••| Others |•••••
+#DESCRIPTION •••••| Others |•••••
+#SERVICE 1:64:188:0:0:0:0:0:0:0::•••••| Cultural • Nature |•••••
+#DESCRIPTION •••••| Cultural • Nature |•••••
+#SERVICE 1:0:19:BC4:AF3:BB:E080000:0:0:0:
+#SERVICE 1:0:1:FB6:AF4:BB:E080000:0:0:0:
+#SERVICE 1:0:1:BC3:AF3:BB:E080000:0:0:0:
+#SERVICE 1:64:189:0:0:0:0:0:0:0::•••••| Children |•••••
+#DESCRIPTION •••••| Children |•••••
+#SERVICE 1:0:19:BDC:AF3:BB:E080000:0:0:0:
+#SERVICE 1:64:18A:0:0:0:0:0:0:0::•••••| News |•••••
+#DESCRIPTION •••••| News |•••••
+#SERVICE 1:0:1:BD8:AF3:BB:E080000:0:0:0:
+#SERVICE 1:64:18B:0:0:0:0:0:0:0::•••••| Religious |•••••
+#DESCRIPTION •••••| Religious |•••••
