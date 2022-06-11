@@ -98,8 +98,7 @@ MakeIPK vhannibal.dual.feeds.and.dtt.roma dual.feeds.and.dtt.roma ${VER}
 MakeIPK vhannibal.dual.feeds.and.dtt.milano dual.feeds.and.dtt.milano ${VER}
 MakeIPK vhannibal.dual.feeds.and.dtt.napoli dual.feeds.and.dtt.napoli ${VER}
 MakeIPK vhannibal.dual.feeds.and.dtt.italia dual.feeds.and.dtt.italia ${VER}
-MakeIPK enigma2-plugin-settings-emil.motor_1.0+git6074+5be3f1d_r0_all.ipk
-
+MakeIPK enigma2-plugin-settings-emil.motor ${VER}
 PACKNAME="enigma2-plugin-settings-mr.mister"
 PACK="Mr Mister E2 Settings File"
 
@@ -122,4 +121,4 @@ rm -rf ${P}/${PACKNAME}*.ipk
 #MakeIPK malimali.13e 13e ${VER}
 #MakeIPK malimali.13e.19e 13e.19e ${VER}
 #MakeIPK malimali.13e.16e.19e.28e 13e.16e.19e.28e ${VER}
-MakeIPK enigma2-plugin-settings-emil.motor_1.0+git6074+5be3f1d_r0_all
+MakeIPK enigma2-plugin-settings-emil.motor ${VER}
