@@ -3,7 +3,7 @@ Version:1.0+git6074+5be3f1d_r0
 Section: base
 Architecture: all
 MD5Sum: d4c1ec35a8e498e52aebff70a5e48f61
-Size: 677888
+Size: 678548
 Filename: enigma2-plugin-settings-emil.motor_1.0+git6074+5be3f1d_r0_all.ipk
 Description: emil enigma2 settings
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
@@ -44,6 +44,7 @@ Priority: optional
 Source: https://github.com/emil237/emil-settings
 OE: enigma2-plugin-settings-vhannibal.motor.and.dtt.italia
 License: Proprietary
+
 
 
 
