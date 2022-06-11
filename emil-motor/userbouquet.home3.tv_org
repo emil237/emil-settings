@@ -1,0 +1,27 @@
+#NAME Home3
+#SERVICE 1:64:380:0:0:0:0:0:0:0::---------- General Lithuania ----------
+#DESCRIPTION ---------- General Lithuania ----------
+#SERVICE 1:64:381:0:0:0:0:0:0:0::---------- General Estonia ----------
+#DESCRIPTION ---------- General Estonia ----------
+#SERVICE 1:64:382:0:0:0:0:0:0:0::----------General Latvia ----------
+#DESCRIPTION ----------General Latvia ----------
+#SERVICE 1:64:383:0:0:0:0:0:0:0::---------- Movies ----------
+#DESCRIPTION ---------- Movies ----------
+#SERVICE 1:64:384:0:0:0:0:0:0:0::---------- Tv Series ----------
+#DESCRIPTION ---------- Tv Series ----------
+#SERVICE 1:64:385:0:0:0:0:0:0:0::---------- Entertainment ----------
+#DESCRIPTION ---------- Entertainment ----------
+#SERVICE 1:64:386:0:0:0:0:0:0:0::---------- Sports ----------
+#DESCRIPTION ---------- Sports ----------
+#SERVICE 1:64:387:0:0:0:0:0:0:0::---------- Culture ----------
+#DESCRIPTION ---------- Culture ----------
+#SERVICE 1:64:388:0:0:0:0:0:0:0::---------- Music ----------
+#DESCRIPTION ---------- Music ----------
+#SERVICE 1:64:389:0:0:0:0:0:0:0::---------- Kids ----------
+#DESCRIPTION ---------- Kids ----------
+#SERVICE 1:64:38A:0:0:0:0:0:0:0::---------- News ----------
+#DESCRIPTION ---------- News ----------
+#SERVICE 1:64:38B:0:0:0:0:0:0:0::---------- Test ----------
+#DESCRIPTION ---------- Test ----------
+#SERVICE 1:64:38C:0:0:0:0:0:0:0::---------- Adults ----------
+#DESCRIPTION ---------- Adults ----------
