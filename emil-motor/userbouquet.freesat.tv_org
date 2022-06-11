@@ -1,0 +1,13 @@
+#NAME Freesat
+#SERVICE 1:64:4B8:0:0:0:0:0:0:0::---------- Bbc ----------
+#DESCRIPTION ---------- Bbc ----------
+#SERVICE 1:64:4B9:0:0:0:0:0:0:0::---------- Itv ----------
+#DESCRIPTION ---------- Itv ----------
+#SERVICE 1:64:4BA:0:0:0:0:0:0:0::---------- Other ----------
+#DESCRIPTION ---------- Other ----------
+#SERVICE 1:0:19:F24:7D8:2:11A0000:0:0:0:
+#SERVICE 1:0:19:CC8:7ED:2:11A0000:0:0:0:
+#SERVICE 1:64:4BB:0:0:0:0:0:0:0::---------- Service ----------
+#DESCRIPTION ---------- Service ----------
+#SERVICE 1:64:4BC:0:0:0:0:0:0:0::---------- Test ----------
+#DESCRIPTION ---------- Test ----------
