@@ -1,0 +1,15 @@
+#NAME Radio 19.2°E
+#SERVICE 1:64:574:0:0:0:0:0:0:0::---------- Canal+France-Orange ----------
+#DESCRIPTION ---------- Canal+France-Orange ----------
+#SERVICE 1:64:575:0:0:0:0:0:0:0::---------- Movistar+ ----------
+#DESCRIPTION ---------- Movistar+ ----------
+#SERVICE 1:64:576:0:0:0:0:0:0:0::---------- Ard ----------
+#DESCRIPTION ---------- Ard ----------
+#SERVICE 1:64:577:0:0:0:0:0:0:0::---------- Zdf ----------
+#DESCRIPTION ---------- Zdf ----------
+#SERVICE 1:64:578:0:0:0:0:0:0:0::---------- HD Austria - Orf ----------
+#DESCRIPTION ---------- HD Austria - Orf ----------
+#SERVICE 1:64:579:0:0:0:0:0:0:0::---------- Canal Digitaal ----------
+#DESCRIPTION ---------- Canal Digitaal ----------
+#SERVICE 1:64:57A:0:0:0:0:0:0:0::---------- Others ----------
+#DESCRIPTION ---------- Others ----------
