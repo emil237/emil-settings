@@ -70,7 +70,8 @@ mkdir -p ${R}
 
 rm -rf ${D}/feed/${PACKNAME}*.ipk
 
-MakeIPK enigma2-plugin-settings-emil.motor_1.0+git6074+5be3f1d_r0_all
+MakeIPK enigma2-plugin-settings-emil.motor ${VER}
+
 
 
 
