@@ -1,0 +1,19 @@
+#NAME • 5,0 W - Mediaset • Multistream
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••::| HD |::•••••
+#DESCRIPTION •••••::| HD |::•••••
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Sport |•••••
+#DESCRIPTION •••••| Sport |•••••
+#SERVICE 1:0:19:2009:32A:110:DDE0000:0:0:0:
+#SERVICE 1:0:19:143A:3B6:110:DDE0000:0:0:0:
+#SERVICE 1:0:19:321:107:217C:DDE0000:0:0:0:
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| General |•••••
+#DESCRIPTION •••••| General |•••••
+#SERVICE 1:0:19:2EF:107:217C:DDE0000:0:0:0:
+#SERVICE 1:0:19:2F0:107:217C:DDE0000:0:0:0:
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••::| SD |::•••••
+#DESCRIPTION •••••::| SD |::•••••
+#SERVICE 1:0:1:143C:3B6:110:DDE0000:0:0:0:
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Sport |•••••
+#DESCRIPTION •••••| Sport |•••••
+#SERVICE 1:0:1:1419:3B6:110:DDE0000:0:0:0:
+#SERVICE 1:0:1:1439:3B6:110:DDE0000:0:0:0:

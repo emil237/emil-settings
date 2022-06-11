@@ -1,0 +1,17 @@
+#NAME • 4,8 E - Viasat • Ukraine
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Sport |•••••
+#DESCRIPTION •••••| Sport |•••••
+#SERVICE 1:0:19:1086:1A:44:300000:0:0:0:
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Movies |•••••
+#DESCRIPTION •••••| Movies |•••••
+#SERVICE 1:0:19:ABE:1A:44:300000:0:0:0:
+#SERVICE 1:0:19:1090:1A:44:300000:0:0:0:
+#SERVICE 1:0:19:1072:1A:44:300000:0:0:0:
+#SERVICE 1:0:19:1068:1A:44:300000:0:0:0:
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Entertainment |•••••
+#DESCRIPTION •••••| Entertainment |•••••
+#SERVICE 1:0:19:BD6:1A:44:300000:0:0:0:
+#SERVICE 1:0:19:107C:1A:44:300000:0:0:0:
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Cultural • Nature |•••••
+#DESCRIPTION •••••| Cultural • Nature |•••••
+#SERVICE 1:0:19:BE0:1A:44:300000:0:0:0:

@@ -1,0 +1,12 @@
+#NAME === Emil_Nabil === (TV)
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "subbouque.dbe116.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "subbouque.ec_moves-arabic_drama__________________________________.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "subbouque.dbe114.tv" ORDER BY bouquet:==== Osn Showtime                              ????? ???????? ====
+#DESCRIPTION ==== Osn Showtime                              ????? ???????? ====
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "subbouque.ec_bein_sports_____________________________________________.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "subbouque.ec_subtitled_foreign_films___________________________________________.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "subbouque.ec_sport__________________________________________________.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "subbouque.ec_news_arabic_____________________________________________.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "subbouque.ec_music_________________________________________________________.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "subbouque.ec_movies______________________________________________________.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "subbouque.ec_kids________________________________________________________.tv" ORDER BY bouquet

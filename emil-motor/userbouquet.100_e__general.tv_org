@@ -1,0 +1,32 @@
+#NAME • 10,0 E - General
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••::| HD |::•••••
+#DESCRIPTION •••••::| HD |::•••••
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| General |•••••
+#DESCRIPTION •••••| General |•••••
+#SERVICE 1:0:1:1:1:1:64AB6A:0:0:0::Al Rasheed
+#DESCRIPTION Al Rasheed
+#SERVICE 1:0:1:1:1000:2000:64AD66:0:0:0:
+#SERVICE 1:0:1:1:1000:2000:64AD6B:0:0:0:
+#SERVICE 1:0:19:4:1:1:642C52:0:0:0:
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Entertainment |•••••
+#DESCRIPTION •••••| Entertainment |•••••
+#SERVICE 1:0:1:1:1:1:64AD77:0:0:0:
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| News |•••••
+#DESCRIPTION •••••| News |•••••
+#SERVICE 1:0:1:1:1:FFFF:64AAFE:0:0:0::Alforat News HD
+#DESCRIPTION Alforat News HD
+#SERVICE 1:0:1:1:1:FFFF:642D7C:0:0:0:
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••::| SD |::•••••
+#DESCRIPTION •••••::| SD |::•••••
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| General |•••••
+#DESCRIPTION •••••| General |•••••
+#SERVICE 1:0:1:1:1000:2000:64AA56:0:0:0::ORTC
+#DESCRIPTION ORTC
+#SERVICE 1:0:1:1:1:FFFF:64AA54:0:0:0::Palanca TV
+#DESCRIPTION Palanca TV
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| News |•••••
+#DESCRIPTION •••••| News |•••••
+#SERVICE 1:0:1:1:1000:2000:640000:0:0:0:
+#SERVICE 1:0:1:4:1:FFFF:642DA1:0:0:0:
+#SERVICE 1:0:1:64:1:1:64B15D:0:0:0:
+#SERVICE 1:0:1:C8:1:1:64B15D:0:0:0:

@@ -1,0 +1,15 @@
+#NAME • 5,0 W - RAI • Multistream
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Sport |•••••
+#DESCRIPTION •••••| Sport |•••••
+#SERVICE 1:0:19:3E9:1:217C:DDE0000:0:0:0:
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| General |•••••
+#DESCRIPTION •••••| General |•••••
+#SERVICE 1:0:19:579:AD:217C:DDE0000:0:0:0:
+#SERVICE 1:0:19:57A:AD:217C:DDE0000:0:0:0:
+#SERVICE 1:0:19:41B:2:217C:DDE0000:0:0:0:
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Others |•••••
+#DESCRIPTION •••••| Others |•••••
+#SERVICE 1:0:19:35:3000:217C:DDE0000:0:0:0:
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Religious |•••••
+#DESCRIPTION •••••| Religious |•••••
+#SERVICE 1:0:19:34:3000:217C:DDE0000:0:0:0:
